@@ -1,2 +1,15 @@
 # Controller-Wrappers-Archive
-Contains all the Java wrappers we have for the different types of controllers we own. This includes the Microsoft XBox360 controller, the Logitech Attack 3, the Logitech Extreme 3D Pro, the Logitech Dual Action, the SONY PS3 Controller (Using another external wrapping program), and possibly other various controllers added after the initial commit.
+
+Contains all the Java wrappers we have for the different types of controllers we own.
+
+This includes the following Controllers:
+* Microsoft XBox360 Controller
+* Logitech Dual Action Controller
+* Sony PlayStation3 Controller (*With the use of an extneral wrapping program, like DS3 Tool*)
+
+
+And Joystick Controllers:
+* Logitech Attack 3 Joystick
+* Logitech Extreme 3D Pro Joystick
+
+Hopefully we will add support for the XBox One, Play Station 4, and Steam Controllers.
