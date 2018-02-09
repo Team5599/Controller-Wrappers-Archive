@@ -14,7 +14,7 @@ And Joystick Controllers:
 
 Hopefully we will add support for the XBox One, Play Station 4, and Steam Controllers.
 
-**For the PS3 Controller Wrapper**
+## For the PS3 Controller Wrapper
 You must use an external program like DS3 Tool, Better DS3, or MotionJoy.
 These convert the PS3 controller's outputs into a Windows readable format (Usually XBox360) by tricking Windows into thinking something like an XBox controller is plugged in.
 
