@@ -12,7 +12,7 @@ And Joystick Controllers:
 * Logitech Attack 3 Joystick
 * Logitech Extreme 3D Pro Joystick
 
-Hopefully we will add support for the XBox One, Play Station 4, and Steam Controllers.
+Hopefully we will add support for the XBox One, Play Station 4, Steam Controllers, Nintendo Wii Remotes, and Nintendo Switch Joycons.
 
 ## For the PS3 Controller Wrapper
 You must use an external program like DS3 Tool, Better DS3, or MotionJoy.
