@@ -1,7 +1,7 @@
 // You will need to set up an external software like 'Better DS3 Tool' or 'MotionJoy'.
 	// This essentially tricks the computer into thinking the PS3 Controller is an xBox Controller, converting it's inputs.
 
-package org.usfirst.frc.team5599.robot;
+package frc.robot.Controllers;
 
 import edu.wpi.first.wpilibj.Joystick;
 

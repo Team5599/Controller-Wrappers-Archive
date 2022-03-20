@@ -1,13 +1,13 @@
-package org.usfirst.frc.team5599.robot;
+package frc.robot.Controllers;
 
 import edu.wpi.first.wpilibj.Joystick;
 
-public class LogitechDualAction {
+public class LogitechDualActionController {
 
 	public Joystick controller;
 	public int port;
 
-	public LogitechDualAction(int port) {
+	public LogitechDualActionController(int port) {
 		this.port = port;
 		this.controller = new Joystick(port);
 		// When the Controller is initialized, it will automatically set the controller object and port value
