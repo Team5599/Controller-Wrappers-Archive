@@ -1,6 +1,6 @@
 # Java-Controller-Wrappers
 
-Contains all the Java wrappers we have for the different types of controllers we own.
+Contains all the Java wrappers we have for the different types of controllers we own. Assumes it is submoduled into src\main\java\frc\robot\Controllers and will have package `frc.robot.Controllers`.
 
 This includes the following Controllers:
 * Microsoft XBox360 Controller
